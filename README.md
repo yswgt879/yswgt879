@@ -12,6 +12,18 @@
 [フル・フィー](https://github.com/yswgt879/furufie)<br>
 [ミニオルガン](https://github.com/yswgt879/organ)<br>
 
+## SHARP PC-1245/50/51/55
+
+準備中<br>
+
+## SHARP PC-1450
+
+準備中<br>
+
+## CASIO PB-100系
+
+準備中<br>
+
 # X68000関連
 
 準備中<br>
@@ -25,5 +37,9 @@
 準備中<br>
 
 # GAMEBOY関連
+
+準備中<br>
+
+# その他
 
 準備中<br>
