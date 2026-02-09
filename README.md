@@ -1,16 +1,29 @@
-## Hi there 👋
+# ポケコン関連
 
-<!--
-**yswgt879/yswgt879** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## SHARP PC-E200系
 
-Here are some ideas to get you started:
+[平城京エイリアン](https://github.com/yswgt879/heijo_e200)<br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## SHARP PC-G850系
+
+[平城京エイリアン](https://github.com/yswgt879/heijo_g850)<br>
+[ポートアイランド連鎖殺人事件](https://github.com/yswgt879/portisland)<br>
+[バナナ・モール　BANANA MOLE](https://github.com/yswgt879/mole)<br>
+[フル・フィー](https://github.com/yswgt879/furufie)<br>
+[ミニオルガン](https://github.com/yswgt879/organ)<br>
+
+# X68000関連
+
+準備中<br>
+
+# FM-7関連
+
+準備中<br>
+
+# NES関連
+
+準備中<br>
+
+# GAMEBOY関連
+
+準備中<br>
