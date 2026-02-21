@@ -26,7 +26,7 @@
 
 ## CASIO PB-100系
 
-準備中<br>
+[平城京エイリアン](https://github.com/yswgt879/heijo_pb100)<br>
 
 # FM-7関連
 
