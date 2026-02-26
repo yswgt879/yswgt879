@@ -18,6 +18,8 @@
 
 ## SHARP PC-1245/50/51/55
 
+[Tiny 平城京エイリアン](https://github.com/yswgt879/heijo_pc1245)<br>
+
 準備中<br>
 
 ## SHARP PC-1450
