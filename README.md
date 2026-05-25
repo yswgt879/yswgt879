@@ -1,6 +1,7 @@
 # X68000関連
 
 [『ザ・病院 PRO-68K』　アップデートプログラム](https://github.com/yswgt879/Hospital_Update)<br>
+[SC61860 CROSS ASSEMBLER / DISASSEMBLER for X68000](https://github.com/yswgt879/sc61_x68k)<br>
 
 # ポケコン関連
 
