@@ -22,14 +22,16 @@
 [Tiny 平城京エイリアン](https://github.com/yswgt879/heijo_pc1245)<br>
 [ポケコン電卓](https://github.com/yswgt879/numbers_pc1245)<br>
 
+<!--
 ## SHARP PC-1450
 
 準備中<br>
-
+-->
 ## CASIO PB-100系
 
 [平城京エイリアン](https://github.com/yswgt879/heijo_pb100)<br>
 
+<!--
 # FM-7関連
 
 準備中<br>
@@ -45,3 +47,4 @@
 # その他
 
 準備中<br>
+-->
