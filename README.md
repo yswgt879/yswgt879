@@ -1,10 +1,10 @@
-# X68000関連
+# X68000
 
 * [『ザ・病院 PRO-68K』　アップデートプログラム](https://github.com/yswgt879/Hospital_Update)<br>
 * [SC61860 CROSS ASSEMBLER / DISASSEMBLER for X68000](https://github.com/yswgt879/sc61_x68k)<br>
 * [SQLite3 for X68000](https://github.com/yswgt879/sqlite3_x68k)<br>
 
-# ポケコン関連
+# ポケコン
 
 ## SHARP PC-E200系
 
@@ -33,15 +33,15 @@
 * [平城京エイリアン](https://github.com/yswgt879/heijo_pb100)<br>
 
 <!--
-# FM-7関連
+# FM-7
 
 * 準備中<br>
 
-# NES関連
+# NES
 
 * 準備中<br>
 
-# GAMEBOY関連
+# GAMEBOY
 
 * 準備中<br>
 
