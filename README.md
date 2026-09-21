@@ -12,6 +12,7 @@
 
 ## SHARP PC-G850系
 
+* [ポケコン野球拳](https://github.com/yswgt879/yakyuken_g850)<br>
 * [平城京エイリアン](https://github.com/yswgt879/heijo_g850)<br>
 * [ポートアイランド連鎖殺人事件](https://github.com/yswgt879/portisland)<br>
 * [バナナ・モール　BANANA MOLE](https://github.com/yswgt879/mole)<br>
