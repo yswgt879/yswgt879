@@ -33,6 +33,10 @@
 
 * [平城京エイリアン](https://github.com/yswgt879/heijo_pb100)<br>
 
+# その他
+
+* [簡易マシン語モニタ for Excel](https://github.com/yswgt879/m-monitor_excel)<br>
+
 <!--
 # FM-7
 
@@ -43,10 +47,6 @@
 * 準備中<br>
 
 # GAMEBOY
-
-* 準備中<br>
-
-# その他
 
 * 準備中<br>
 -->
